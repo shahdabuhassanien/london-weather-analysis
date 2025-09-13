@@ -57,6 +57,6 @@ The assignment is divided into two main parts: preparing the dataset and answeri
 
 ## Results
 - **2010-12-31**: Identified the coolest year (lowest mean temperature) between 2000–2020.
-- 
+  
 ---
 
