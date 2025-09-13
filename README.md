@@ -54,6 +54,7 @@ The assignment is divided into two main parts: preparing the dataset and answeri
 - **Visualization**:
   - Title: *"Average Temperature"*  
 <img width="1998" height="347" alt="image" src="https://github.com/user-attachments/assets/f53c5aee-856c-4e04-a589-a4e4f9d35744" />
+
 ## Results
 - **2010-12-31**: Identified the coolest year (lowest mean temperature) between 2000–2020.
 - 
